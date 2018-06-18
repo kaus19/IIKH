@@ -1,4 +1,4 @@
-# iikh
+# iikh (using concepts of OOP)
 Interactive Intelligent Kitchen Helper
 
 Problem Statement : 
